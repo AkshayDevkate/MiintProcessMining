@@ -44,3 +44,9 @@ Analyze information from fragmented systems and processes. Achieve a single, tra
 Dive deep into your Order to Cash process with the help of Minit Process Mining software. Analyze and visualize how effectively you convert your company's products or services into money.
 
 [learn more](https://www.minit.io/use-cases/order-to-cash-process)
+
+### Minir resources on process mining and blogs
+
+Find the resources [here](https://www.minit.io/resources)
+
+Find the process mining blogs by minit [here](https://www.minit.io/blog)
